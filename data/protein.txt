@@ -1,0 +1,95 @@
+Proteins are large biomolecules made of one or more long chains of amino acids. They perform many functions in organisms, such as catalyzing metabolic reactions, DNA replication, responding to stimuli, providing structure, and transporting molecules. Proteins differ mainly in their amino acid sequence, determined by genes, which leads to specific 3D structures and activities.
+A linear chain of amino acids is called a polypeptide. Proteins have at least one long polypeptide; shorter chains are called peptides. Amino acids are linked by peptide bonds. The sequence of amino acids is defined by gene sequences, usually encoding 20 standard amino acids, with some exceptions. Proteins often undergo post-translational modifications, affecting their properties and functions. Some proteins have non-peptide groups (prosthetic groups or cofactors) and can form complexes.
+Proteins have a limited lifespan and are degraded and recycled by the cell. Their half-lives vary from minutes to years. Misfolded proteins are degraded more quickly.
+Proteins are essential for all cellular processes. Many are enzymes, while others have structural, mechanical, signaling, immune, or regulatory roles. Animals require dietary proteins for essential amino acids.
+Discovery and Early Studies:
+- Proteins were studied since the 1700s, called "albumins" or "albuminous materials."
+- In 1838, Mulder and Berzelius described and named proteins.
+- Early studies focused on nutritional importance and amino acid discovery.
+- Purification was difficult until the mid-20th century.
+Polypeptides:
+- Proteins are polypeptides (chains of amino acids).
+- Their enzymatic role was confirmed in 1926.
+- Protein secondary structures were predicted by Pauling.
+- The first sequenced protein was insulin (Sanger, 1949).
+- Protein folding principles were established by Anfinsen.
+Structure:
+- X-ray crystallography enabled structure determination.
+- First structures: hemoglobin and myoglobin (1958).
+- Cryo-EM and computational methods now aid structure analysis.
+- Protein Data Bank stores solved structures.
+Classification:
+- Proteins are classified by sequence, structure, and function.
+- Domains allow for modular classification.
+- Enzymes use EC numbers; gene ontology classifies by function and location.
+Biochemistry:
+- Proteins are polymers of up to 20 L-α-amino acids.
+- Amino acids have a common structure; proline is unique.
+- Peptide bonds link amino acids; the chain has N- and C-termini.
+- The distinction between protein, polypeptide, and peptide is based on size and structure.
+- Proteins interact with many molecules and ions.
+Abundance in Cells:
+- Bacterial cells contain ~2 million proteins; eukaryotic cells have more.
+- Not all proteins are expressed in all cells.
+- RuBisCO is the most abundant protein in nature.
+Synthesis:
+- Proteins are synthesized from amino acids using genetic information.
+- DNA is transcribed to mRNA, which is translated by ribosomes.
+- Translation matches codons to amino acids via tRNA.
+- Proteins are synthesized N-terminus to C-terminus.
+- Protein size varies; titins are the largest known proteins.
+Chemical Synthesis:
+- Short proteins can be synthesized chemically.
+- Chemical synthesis allows non-natural amino acids but is inefficient for long chains.
+Structure:
+- Proteins fold into unique 3D structures (native conformation).
+- Four levels: primary (sequence), secondary (local structures), tertiary (overall shape), quaternary (complexes).
+- Proteins can be globular, fibrous, or membrane types.
+- Domains are functional units; motifs are short functional sequences.
+Cellular Functions:
+- Proteins carry out gene-encoded functions.
+- They bind other molecules specifically at binding sites.
+- Protein–protein interactions regulate many processes.
+- Enzymes catalyze reactions; antibodies bind antigens; transport proteins move molecules.
+Structural Proteins:
+- Provide rigidity (collagen, elastin, keratin).
+- Motor proteins generate force (myosin, kinesin, dynein).
+Methods of Study:
+- Techniques: immunohistochemistry, mutagenesis, crystallography, NMR, mass spectrometry.
+- Protein purification uses centrifugation, precipitation, electrophoresis, chromatography.
+- Tags (e.g., His-tag) aid purification.
+Cellular Localization:
+- Localization studied with fusion proteins (e.g., GFP), immunofluorescence, cofractionation, immunoelectron microscopy.
+- Site-directed mutagenesis alters protein properties.
+Proteomics:
+- Proteomics studies the full set of proteins (proteome).
+- Techniques: 2D electrophoresis, mass spectrometry, microarrays, two-hybrid screening.
+- The interactome is the set of all protein–protein interactions.
+Structure Determination:
+- Methods: X-ray crystallography, NMR, dual polarization interferometry, circular dichroism, cryo-EM.
+- Protein Data Bank stores structures.
+- Membrane proteins are harder to study.
+Structure Prediction:
+- Homology modeling predicts structures using templates.
+- Many proteins have unstructured regions (intrinsically disordered proteins).
+In Silico Simulation:
+- Simulations predict folding, interactions, and dynamics.
+- Methods include molecular dynamics and quantum dynamics.
+- Distributed computing (e.g., Folding@home) aids large-scale simulations.
+Chemical Analysis:
+- Protein nitrogen content is measured by the Kjeldahl method.
+Digestion:
+- Proteins are hydrolyzed to amino acids by proteases during digestion.
+- Commercial hydrolysis uses acid and heat.
+Mechanical Properties:
+- Proteins have diverse mechanical properties (e.g., keratin, collagen).
+- Young's modulus measures stiffness.
+- Simulations and experiments measure mechanical properties.
+Elasticity of Various Proteins:
+- Keratin (fibrous): 1.5–10 GPa
+- Elastin (fibrous): 1 MPa
+- Fibrin (fibrous): 1–10 MPa
+- Collagen (fibrous): 5–7.5 GPa
+- Resilin (fibrous): 1–2 MPa
+- Bovine serum albumin (globular): 2.5–15 kPa
+- β-barrel outer membrane proteins (membrane): 20–45 GPa
