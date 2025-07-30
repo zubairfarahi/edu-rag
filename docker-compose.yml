@@ -1,0 +1,43 @@
+version: '3.8'
+
+services:
+  edu-chat-rag:
+    build:
+      context: .
+      dockerfile: DockerFile
+    ports:
+      - "8000:8000"
+    environment:
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - HOST=0.0.0.0
+      - PORT=8000
+    volumes:
+      # Mount for development (optional)
+      - ./data:/app/data:ro
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/ping"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+    networks:
+      - edu-chat-network
+
+  # Optional: Add Redis for persistent vector storage in the future
+  # redis:
+  #   image: redis:7-alpine
+  #   ports:
+  #     - "6379:6379"
+  #   volumes:
+  #     - redis_data:/data
+  #   restart: unless-stopped
+  #   networks:
+  #     - edu-chat-network
+
+networks:
+  edu-chat-network:
+    driver: bridge
+
+# volumes:
+#   redis_data: 

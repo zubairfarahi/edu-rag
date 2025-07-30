@@ -1,0 +1,17 @@
+torch==2.2.0
+numpy<2
+fastapi>=0.115.12
+jupyter>=1.1.1
+openai
+python-dotenv
+pydantic>=2.11.4
+uvicorn>=0.34.2
+pdf2image>=1.17
+pypdf2>=3.0.1
+pymupdf>=1.26.3
+transformers==4.43.1
+sentence-transformers==2.7.0
+fastapi_utils
+typing_inspect
+python-multipart
+ujson 

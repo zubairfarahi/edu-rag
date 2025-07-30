@@ -19,4 +19,9 @@ dependencies = [
     "pymupdf>=1.26.3",
     "transformers==4.43.1",
     "sentence-transformers==2.7.0",
+    "opencv-python",
+    "fastapi_utils",
+    "typing_inspect",
+    "python-multipart",
+    "ujson",
 ]

@@ -1,7 +1,7 @@
 from collections import defaultdict
 from typing import List, Tuple, Callable
-from embedding import EmbeddingModel
-from utilits import cosine_similarity
+from .embedding import EmbeddingModel
+from .utilits import cosine_similarity
 import asyncio
 import numpy as np
 class VectorDatabase:
